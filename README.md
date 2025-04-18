@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/josephade?tab=repositories](https://github.com/josephade?tab=repositories)
 
-- 📫 How to reach me **josephade1030@gmail,com**
+- 📫 How to reach me **josephade1030@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
